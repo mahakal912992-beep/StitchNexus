@@ -1,0 +1,6 @@
+{
+  "name": "StitchNexus",
+  "description": "AI-powered data automation platform with interactive pipelines, user authentication, and secure checkout processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
